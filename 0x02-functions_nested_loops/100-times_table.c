@@ -1,9 +1,10 @@
 #include "main.h"
+#include <stdio.h>
 
 /**
  * print_times_table - prints times table
  * @n: times table to use
- * Return: 0
+ * Return: void
  */
 void print_times_table(int n)
 {
