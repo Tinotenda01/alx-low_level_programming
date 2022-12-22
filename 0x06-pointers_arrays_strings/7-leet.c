@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  * leet - function that encode a string
  * @str:string that will be encoded
@@ -19,5 +20,6 @@ char *leet(char *str)
 				str[index1] = index2 + '0';
 		}
 	}
+
 	return (str);
 }
