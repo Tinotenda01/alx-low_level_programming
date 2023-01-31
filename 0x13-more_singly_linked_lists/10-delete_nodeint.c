@@ -3,9 +3,7 @@
 /**
  * delete_nodeint_at_index - Function
  *
- *   *
- *
- * * Description: deletes the node at index index of a listint_t linked list.
+ * Description: deletes the node at index index of a listint_t linked list.
  *
  * @head: pointer to pointer of type listint_t
  * @index: unsigned int, index to remove
